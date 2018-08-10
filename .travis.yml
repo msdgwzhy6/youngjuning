@@ -23,9 +23,6 @@ script:
   - hexo clean
   - hexo generate
 after_success:
-  - cd ./about
-  - git push --quiet --force https://${access_token}@github.com/youngjuning/about.git
-    master
   - cd ./public
   - git init
   - git add --all .
