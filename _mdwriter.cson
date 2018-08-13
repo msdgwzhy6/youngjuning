@@ -23,7 +23,7 @@ siteLocalDir: ""
 # Directory to drafts from siteLocalDir
 siteDraftsDir: "source/_drafts/"
 # Directory to posts from siteLocalDir
-sitePostsDir: "source/_posts/{year}/"
+sitePostsDir: "source/_posts/{year}/{month}/"
 # Directory to images from siteLocalDir
 # - E.g. to use the current filename directory, can use {directory}
 siteImagesDir: "source/images/{year}/{month}/"
