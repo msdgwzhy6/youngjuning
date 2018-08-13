@@ -2,6 +2,10 @@
 layout: post
 title: Hello World
 date: '2018-08-05 00:00'
+categories:
+  - uncategorized
+tags:
+  - hello-world
 ---
 
 ![](https://i.loli.net/2018/08/07/5b690a97de04a.jpg)
